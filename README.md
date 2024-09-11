@@ -63,7 +63,7 @@ Mobile Completed
 ### Links
 
 - Solution URL: [](https://github.com/BANKOLEDO/crowdfunding-product-page)
-- Live Site URL: [](https://crowdfunding-product-page-weld.vercel.app/)
+- Live Site URL: [](https://bankoledo.github.io/crowdfunding-product-page/)
 
 ## My process
 
