@@ -10,7 +10,6 @@ This is a solution to the [Crowdfunding Product Page challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -75,31 +74,6 @@ Mobile Completed
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-### What I learned
-
-While working on this project, I learned how to:
-
-- Implement dynamic UI features like modal dialogs and progress bars.
-- Handle user interactions effectively to update the state of the application.
-- Utilize CSS Grid and Flexbox to create responsive layouts.
-
-Here’s a snippet of code I’m particularly proud of:
-
-```html
-<h1>Responsive Modal Implementation</h1>
-```
-```css
-.modal {
-  display: block;
-  /* Other styles */
-}
-```
-```js
-const updateProgressBar = (pledgeAmount) => {
-  // Update progress bar logic
-}
-```
 
 ### Continued development
 
